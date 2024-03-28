@@ -31,6 +31,7 @@ switch (dayOfWeek) {
     case 3:
       System.out.println(a*b);
     case 4:
-      System.out.println(a/b);   
+      System.out.println(a/b);  
+    }
   }
 }
