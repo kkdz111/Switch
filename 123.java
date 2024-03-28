@@ -26,13 +26,13 @@ Scanner sc = new Scanner(System.in);
   int dayOfWeek = sc.nextInt();
 switch (dayOfWeek) {
     case 1:
-      System.out.println(a+b);break:
+      System.out.println(a+b);break;
     case 2:
-      System.out.println(a-b);break:
+      System.out.println(a-b);break;
     case 3:
-      System.out.println(a*b);break:
+      System.out.println(a*b);break;
     case 4:
-      System.out.println(a/b);break:
+      System.out.println(a/b);break;
     }
   }
 }
